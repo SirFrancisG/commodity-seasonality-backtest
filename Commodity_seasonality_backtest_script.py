@@ -1,9 +1,8 @@
-Commodity Seasonality Analysis
-Analisi stagionalita mensile su commodity futures con:
-1) Top 3 e Bottom 3 per ogni mese (statisticamente)
-2) Calcoli corretti di Sharpe, Sortino, rendimenti
-3) Test di ipotesi per validare la significativita statistica
-"""
+#Commodity Seasonality Analysis 
+#Analisi stagionalita mensile su commodity futures con:
+# 1) Top 3 e Bottom 3 per ogni mese (statisticamente)
+# 2) Calcoli corretti di Sharpe, Sortino, rendimenti
+# 3) Test di ipotesi per validare la significativita statistica
 
 import pandas as pd
 import numpy as np
